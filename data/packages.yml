@@ -28,10 +28,10 @@ items  :
     url : "https://github.com/NCAR/pyngl"
     team : GeoCAT
 
-  - package       : "Uxarray"
+  - package       : "UXarray"
     url : "https://github.com/UXARRAY/uxarray"
     team : GeoCAT
 
-  - package       : "wrf-python"
+  - package       : "WRF-Python"
     url : "https://github.com/NCAR/wrf-python"
     team : GeoCAT
