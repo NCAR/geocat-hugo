@@ -142,3 +142,14 @@ items  :
      - Anissa Zacharias
      - Katelyn FitzGerald
     year:  2024
+
+  - title: "Scalable Vector Calculus Operators for Geoscientific Analysis on Unstructured Grids in UXarray"
+    student: Esther Gallmeier
+    university: Cornell University
+    url: "https://www.cisl.ucar.edu/siparcs-2025-esther-gallmeier"
+    github: "@egallmeier"
+    mentors:
+     - Orhan Eroglu
+     - Philip Chmielowiec
+     - Katelyn FitzGerald
+    year:  2025
